@@ -11,3 +11,5 @@ enable_testing()
 
 add_subdirectory(lib)
 add_subdirectory(tests)
+
+add_executable(Main main.cpp)
