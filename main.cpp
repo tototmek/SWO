@@ -1,8 +1,8 @@
-#include "Aggregator.h"
-#include <iostream>
+#include "Moung.h"
 
-int main () {
-	swo::Aggregator a;
-	std::cout << "Aggregator World\n";
+int main() {
+  int amoung{4};
+  Moung moung{1};
+  moung.moung(amoung);
+  return 0;
 }
-

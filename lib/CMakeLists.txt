@@ -1,1 +1,1 @@
-add_library(Aggregator Aggregator.cpp Aggregator.h)
+add_library(Moung Moung.cpp Moung.h)

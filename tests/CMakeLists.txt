@@ -1,3 +1,3 @@
-add_executable(AggregatorTests AggregatorTests.cpp)
-target_link_libraries(AggregatorTests Aggregator)
-add_test(NAME AggregatorTests COMMAND AggregatorTests)
+add_executable(MoungTests MoungTests.cpp)
+target_link_libraries(MoungTests Moung)
+add_test(NAME MoungTests COMMAND MoungTests)
